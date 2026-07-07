@@ -3,7 +3,7 @@
 Reproducible scripts and pipelines for **bacterial genomics, phylogenomics, and metagenomics**, developed and used across my research at the University of Bern (IFIK & IVB). They cover the full path from raw sequencing reads to annotated genomes, phylogenies, and community-diversity statistics, for both **short-read (Illumina)** and **long-read (Oxford Nanopore, PacBio)** data.
 
 **Chahrazed Belhout**, DVM, PhD — Genomics & Bioinformatics
-📍 Bern, Switzerland · ✉️ chahrazed.belhout@unibe.ch
+📍 Bern, Switzerland
 
 ---
 
